@@ -9,6 +9,7 @@ This repository is for submiting project codes of CSE574-Spring 2020. Please fol
 We have create a unique branch for each group， which is prefixed with the name of your TA. If you do not find your group's branch, please ask your TA to create one. Please note that you will get **0 points** if we don't find codes on your own branch.
 
 Milestone 1
+
 Anil Kumar Kunchala: Data preparation, Creating
 Dummy variables, Natural Language processing,
 feature engineering, developed logistic regression
@@ -22,6 +23,7 @@ data and provided general statistic distribution of the
 dataset.
 
 Milestone 2
+
 Anil Kumar Kunchala: Developed Random Forest
 model, divided data based on animal type, evaluation
 of performance of each model.
@@ -35,6 +37,7 @@ demo.
 Xuhui Chen: Developed Decision Tree model.
 
 Milestone 3
+
 Anil Kumar Kunchala: Implemented code for the input
 data such that it matches train data (feature
 transformation), applied Logistic regression, random
